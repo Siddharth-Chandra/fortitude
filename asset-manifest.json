@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ad52f11.css",
-    "main.js": "/static/js/main.31479fcd.js",
-    "static/js/787.e3c13b35.chunk.js": "/static/js/787.e3c13b35.chunk.js",
-    "static/media/img2.jpg": "/static/media/img2.b06e13779cac54bef3c7.jpg",
-    "static/media/img1.jpg": "/static/media/img1.9153ff53e17a1ba3d196.jpg",
-    "static/media/accounting.jpg": "/static/media/accounting.1239d794af24b4e12f34.jpg",
-    "static/media/elearn.jpg": "/static/media/elearn.883014f7c51b208da19c.jpg",
-    "static/media/img3.jpg": "/static/media/img3.f3268cb058266437f9ba.jpg",
-    "static/media/programming.jpg": "/static/media/programming.93a812f70af95a735caa.jpg",
-    "static/media/multimedia.jpg": "/static/media/multimedia.a31d7fc0ff920b6c0ad0.jpg",
-    "index.html": "/index.html",
-    "main.5ad52f11.css.map": "/static/css/main.5ad52f11.css.map",
-    "main.31479fcd.js.map": "/static/js/main.31479fcd.js.map",
-    "787.e3c13b35.chunk.js.map": "/static/js/787.e3c13b35.chunk.js.map"
+    "main.css": "/fortitude/static/css/main.5ad52f11.css",
+    "main.js": "/fortitude/static/js/main.81aea2f1.js",
+    "static/js/787.e3c13b35.chunk.js": "/fortitude/static/js/787.e3c13b35.chunk.js",
+    "static/media/img2.jpg": "/fortitude/static/media/img2.b06e13779cac54bef3c7.jpg",
+    "static/media/img1.jpg": "/fortitude/static/media/img1.9153ff53e17a1ba3d196.jpg",
+    "static/media/accounting.jpg": "/fortitude/static/media/accounting.1239d794af24b4e12f34.jpg",
+    "static/media/elearn.jpg": "/fortitude/static/media/elearn.883014f7c51b208da19c.jpg",
+    "static/media/img3.jpg": "/fortitude/static/media/img3.f3268cb058266437f9ba.jpg",
+    "static/media/programming.jpg": "/fortitude/static/media/programming.93a812f70af95a735caa.jpg",
+    "static/media/multimedia.jpg": "/fortitude/static/media/multimedia.a31d7fc0ff920b6c0ad0.jpg",
+    "index.html": "/fortitude/index.html",
+    "main.5ad52f11.css.map": "/fortitude/static/css/main.5ad52f11.css.map",
+    "main.81aea2f1.js.map": "/fortitude/static/js/main.81aea2f1.js.map",
+    "787.e3c13b35.chunk.js.map": "/fortitude/static/js/787.e3c13b35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ad52f11.css",
-    "static/js/main.31479fcd.js"
+    "static/js/main.81aea2f1.js"
   ]
 }
