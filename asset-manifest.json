@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fortitude/static/css/main.5ad52f11.css",
-    "main.js": "/fortitude/static/js/main.81aea2f1.js",
+    "main.css": "/fortitude/static/css/main.f2c0a8a1.css",
+    "main.js": "/fortitude/static/js/main.bed1379c.js",
     "static/js/787.e3c13b35.chunk.js": "/fortitude/static/js/787.e3c13b35.chunk.js",
     "static/media/img2.jpg": "/fortitude/static/media/img2.b06e13779cac54bef3c7.jpg",
     "static/media/img1.jpg": "/fortitude/static/media/img1.9153ff53e17a1ba3d196.jpg",
@@ -10,13 +10,14 @@
     "static/media/img3.jpg": "/fortitude/static/media/img3.f3268cb058266437f9ba.jpg",
     "static/media/programming.jpg": "/fortitude/static/media/programming.93a812f70af95a735caa.jpg",
     "static/media/multimedia.jpg": "/fortitude/static/media/multimedia.a31d7fc0ff920b6c0ad0.jpg",
+    "static/media/fit.jpeg": "/fortitude/static/media/fit.4079f4ef38427a7b884c.jpeg",
     "index.html": "/fortitude/index.html",
-    "main.5ad52f11.css.map": "/fortitude/static/css/main.5ad52f11.css.map",
-    "main.81aea2f1.js.map": "/fortitude/static/js/main.81aea2f1.js.map",
+    "main.f2c0a8a1.css.map": "/fortitude/static/css/main.f2c0a8a1.css.map",
+    "main.bed1379c.js.map": "/fortitude/static/js/main.bed1379c.js.map",
     "787.e3c13b35.chunk.js.map": "/fortitude/static/js/787.e3c13b35.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ad52f11.css",
-    "static/js/main.81aea2f1.js"
+    "static/css/main.f2c0a8a1.css",
+    "static/js/main.bed1379c.js"
   ]
 }
